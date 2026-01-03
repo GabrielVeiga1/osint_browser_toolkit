@@ -5,18 +5,20 @@ OSINT Tools Navbar é uma curadoria organizada de ferramentas de OSINT (Open Sou
 O objetivo do projeto é fornecer um ponto de acesso rápido, educativo e ético a ferramentas baseadas em fontes abertas, apoiando atividades legítimas de pesquisa, análise, segurança da informação e estudo de ciberinteligência.
 
 🌐 Como importar os bookmarks
-Você pode importar o arquivo osintkit_brasil.html diretamente para seu navegador (Chrome, Firefox, Edge, Brave, etc). Veja como:
+Você pode importar o arquivo osinttoolsnavbar.html diretamente para seu navegador (Chrome, Firefox, Edge, Brave, etc). Veja como:
 
 🔹 Google Chrome ou Brave
 Acesse chrome://bookmarks/
 Clique no menu de três pontos (⋮)
 Escolha Importar favoritos
-Selecione o arquivo osintkit_brasil.html
+Selecione o arquivo osinttoolsnavbar.html
+
 🔹 Mozilla Firefox
 Pressione Ctrl + Shift + B para abrir a Biblioteca de Favoritos
 Clique em Importar e Backup (canto superior)
 Selecione Importar favoritos do HTML...
-Escolha o arquivo osintkit_brasil.html
+Escolha o arquivo osinttoolsnavbar.html
+
 🔹 Microsoft Edge
 Vá para edge://favorites/
 Clique no menu de três pontos (⋮)
@@ -44,7 +46,6 @@ Ferramentas para consulta e auditoria de certificados digitais.
 Ferramentas que fogem das categorias principais, mas ainda assim são úteis.
 📘 Estrutura OSINT
 Materiais educativos, frameworks, referências e guias de estudo.
-
 
 🙌 Créditos e agradecimentos
 Este projeto foi possível graças à generosidade de comunidades e iniciativas que compartilharam conhecimento de forma aberta. Nossos mais sinceros agradecimentos a:
