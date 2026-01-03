@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logoosint.jpg" width="480">
+  <img src="assets/logoosint.jpg" width="600">
 </p>
 
 # OSINT Browser Toolkit
