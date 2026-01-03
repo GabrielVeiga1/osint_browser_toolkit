@@ -22,16 +22,30 @@ Vá para edge://favorites/
 Clique no menu de três pontos (⋮)
 Selecione Importar favoritos
 Escolha a opção de arquivo HTML
-🗂️ Estrutura das categorias
-Os links estão organizados por categorias temáticas e, quando necessário, por subcategorias, de modo a facilitar a navegação sem sobrecarregar o usuário. Alguns exemplos:
 
-Pessoas → OSINT de redes sociais, usernames e rostos
-Geolocalização → Mapas, imagens de satélite, geofencing
-Deep Web → Motores de busca .onion e diretórios
-Corporate Intelligence → Empresas, domínios, registros comerciais
-Forense Digital → Metadados, hashing, análise de mídia
-Plataformas e Agregadores → Kits, hubs e bases de dados OSINT
-Secundárias → Fóruns, repositórios abertos, discussões técnicas
+🗂️ Categorias do Kit
+Os favoritos estão organizados nas seguintes pastas:
+
+🌐 Whois
+Ferramentas para consulta de domínios, registros e informações técnicas.
+📍 Geolocalização & Mapas
+Mapas, satélite, GEOINT e ferramentas de localização.
+🖼️ Análise de Multimídia
+Análise de imagens, metadados, vídeo, audio e forense digital.
+🔍 Busca & Descoberta
+Motores alternativos, busca reversa, lookup de usernames e data discovery.
+👥 Redes Sociais
+OSINT de perfis, monitoramento aberto e análise pública de plataformas sociais.
+🛡️ Ameaças & Inteligência Cibernética
+Threat intelligence pública, IOC lookup, reputação e monitoramento.
+📜 Certificados SSL
+Ferramentas para consulta e auditoria de certificados digitais.
+📎 Outros
+Ferramentas que fogem das categorias principais, mas ainda assim são úteis.
+📘 Estrutura OSINT
+Materiais educativos, frameworks, referências e guias de estudo.
+
+
 🙌 Créditos e agradecimentos
 Este projeto foi possível graças à generosidade de comunidades e iniciativas que compartilharam conhecimento de forma aberta. Nossos mais sinceros agradecimentos a:
 
