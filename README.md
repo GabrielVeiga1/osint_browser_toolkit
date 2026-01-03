@@ -4,7 +4,7 @@ OSINT Tools Navbar é uma curadoria organizada de ferramentas de OSINT (Open Sou
 
 O objetivo do projeto é fornecer um ponto de acesso rápido, educativo e ético a ferramentas baseadas em fontes abertas, apoiando atividades legítimas de pesquisa, análise, segurança da informação e estudo de ciberinteligência.
 
-🌐 Como importar os bookmarks
+## 🌐 Como importar os bookmarks
 Você pode importar o arquivo osinttoolsnavbar.html diretamente para seu navegador (Chrome, Firefox, Edge, Brave, etc). Veja como:
 
 🔹 Google Chrome ou Brave
@@ -25,7 +25,7 @@ Clique no menu de três pontos (⋮)
 Selecione Importar favoritos
 Escolha a opção de arquivo HTML
 
-🗂️ Categorias do Kit
+## 🗂️ Categorias do Kit
 Os favoritos estão organizados nas seguintes pastas:
 
 🌐 **Whois**
@@ -55,14 +55,14 @@ Ferramentas que fogem das categorias principais, mas ainda assim são úteis.
 📘 **Estrutura OSINT**
 Materiais educativos, frameworks, referências e guias de estudo.
 
-🙌 Créditos e agradecimentos
+## 🙌 Créditos e agradecimentos
 Este projeto foi possível graças à generosidade de comunidades e iniciativas que compartilharam conhecimento de forma aberta. Nossos mais sinceros agradecimentos a:
 
 > 🔍 Caipora (Brasil) – Curadoria original de ferramentas OSINT no cenário nacional
-🌐 TraceLabs – OSINT Search Party Bookmarks, estrutura refinada e internacional
-🇧🇷 OSINT Brazuca – Coletâneas locais e iniciativas brasileiras em OSINT
-🚀 OSINT Awesome – Listagem internacional de ferramentas OSINT no GitHub
-🧰 OSINTkit Braisl - Curadoria nacional de ferramentas de OSINT
+> 🌐 TraceLabs – OSINT Search Party Bookmarks, estrutura refinada e internacional
+> 🇧🇷 OSINT Brazuca – Coletâneas locais e iniciativas brasileiras em OSINT
+> 🚀 OSINT Awesome – Listagem internacional de ferramentas OSINT no GitHub
+> 🧰 OSINTkit Braisl - Curadoria nacional de ferramentas de OSINT
 Este projeto se inspira, adapta e complementa essas fontes com curadoria própria, revisão de duplicatas e tradução de categorias para o português.
 
 
