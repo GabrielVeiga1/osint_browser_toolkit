@@ -30,20 +30,28 @@ Os favoritos estão organizados nas seguintes pastas:
 
 🌐 Whois
 Ferramentas para consulta de domínios, registros e informações técnicas.
+
 📍 Geolocalização & Mapas
 Mapas, satélite, GEOINT e ferramentas de localização.
+
 🖼️ Análise de Multimídia
 Análise de imagens, metadados, vídeo, audio e forense digital.
+
 🔍 Busca & Descoberta
 Motores alternativos, busca reversa, lookup de usernames e data discovery.
+
 👥 Redes Sociais
 OSINT de perfis, monitoramento aberto e análise pública de plataformas sociais.
+
 🛡️ Ameaças & Inteligência Cibernética
 Threat intelligence pública, IOC lookup, reputação e monitoramento.
+
 📜 Certificados SSL
 Ferramentas para consulta e auditoria de certificados digitais.
+
 📎 Outros
 Ferramentas que fogem das categorias principais, mas ainda assim são úteis.
+
 📘 Estrutura OSINT
 Materiais educativos, frameworks, referências e guias de estudo.
 
