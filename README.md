@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logoosint.jpg" width="480">
+</p>
+
 # OSINT Browser Toolkit
 
 OSINT Browser Toolkit é uma curadoria organizada de ferramentas de OSINT (Open Source Intelligence), estruturadas em formato de bookmarks HTML para funcionar como uma “barra de navegação” de recursos OSINT — simples, portátil e compatível com qualquer navegador.
